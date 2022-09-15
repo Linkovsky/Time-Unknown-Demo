@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ff65ad80a1b17c4c83c1da8d264d085, type: 3}
+  m_Name: Background Sounds
+  m_EditorClassIdentifier: 
+  backgroundSounds:
+  - {fileID: 8300000, guid: 506724814db379848aef0507c6b38ebb, type: 3}
+  - {fileID: 8300000, guid: b64970e38ad3a1b498a3d79fab4a1d76, type: 3}
+  - {fileID: 8300000, guid: 0fe29870190f0fe4f9b800a1651b022a, type: 3}
+  - {fileID: 8300000, guid: 2ff330c3bc2cebd41b3b2f773f7e6988, type: 3}
+  - {fileID: 8300000, guid: b97f0dd3c4edd3d4f8a8e444cc3413ca, type: 3}
+  - {fileID: 8300000, guid: be4a3a07d2685604d9b0476745dfddf6, type: 3}
+  - {fileID: 8300000, guid: db5ff1f1c8d8d2b459461d96b0d48b29, type: 3}
+  - {fileID: 8300000, guid: 714ba1f78d81ec44286cb60d810c1047, type: 3}
+  - {fileID: 8300000, guid: 21a760a6b7b091d4a8e7a92d6b4fb531, type: 3}
+  - {fileID: 8300000, guid: b97f0dd3c4edd3d4f8a8e444cc3413ca, type: 3}
+  - {fileID: 8300000, guid: 881adf02a9b98184982b02474918a603, type: 3}
+  dungeonSounds:
+  - {fileID: 8300000, guid: 06857fc26b138e640ad21005936eaf5a, type: 3}
