@@ -17,5 +17,3 @@ Don't be afraid of anything
  
 # Game Design Document
 Download Link: https://github.com/Linkovsky/Time-Unknown-Demo/releases/download/demo/Time.is.Unknown.GDD.pdf
-# Download Page
-Click here: https://github.com/Linkovsky/Time-Unknown-Demo/releases/tag/demo
